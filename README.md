@@ -1,4 +1,7 @@
-# api documentation for  [iconv (v2.2.3)](https://github.com/bnoordhuis/node-iconv)  [![npm package](https://img.shields.io/npm/v/npmdoc-iconv.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-iconv) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-iconv.svg)](https://travis-ci.org/npmdoc/node-npmdoc-iconv)
+# npmdoc-iconv
+
+#### basic api documentation for  [iconv (v2.2.3)](https://github.com/bnoordhuis/node-iconv)  [![npm package](https://img.shields.io/npm/v/npmdoc-iconv.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-iconv) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-iconv.svg)](https://travis-ci.org/npmdoc/node-npmdoc-iconv)
+
 #### Text recoding in JavaScript for fun and profit!
 
 [![NPM](https://nodei.co/npm/iconv.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/iconv)
@@ -59,7 +62,8 @@
         "install": "node-gyp rebuild",
         "test": "tap test/test-*.js"
     },
-    "version": "2.2.3"
+    "version": "2.2.3",
+    "bin": {}
 }
 ```
 
